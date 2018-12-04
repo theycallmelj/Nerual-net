@@ -1,0 +1,1 @@
+This artificial intelligence requires a directory to store it the values for the roads. The JOptionPane at the beginning gives it this directory. Remember to end the directory with a / . Along with that its really slow and takes a massive amount of cpu and ram to run this. However, it does learn. Slowly, but surely.
